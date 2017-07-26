@@ -1,0 +1,5 @@
+# Configuration files
+/.vagrant/
+vagrant_provision.sh
+Vagrantfile
+node_modules/
